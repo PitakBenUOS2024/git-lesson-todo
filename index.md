@@ -1,13 +1,10 @@
-#Welcome to my GitHub page
+# Welcome to my Project
 
+This is the `index.md` file for my GitHub project.
 
-##H2
+## Features
+- Feature 1
+- Feature 2
 
-###H3
-
-####H4 
-
-##Here's some cat picture
-> Cat
-
-
+### Getting Started
+Follow these steps to get started with the project.
